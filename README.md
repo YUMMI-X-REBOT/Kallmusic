@@ -1,7 +1,7 @@
-  #                Yummi Music 
+ #                           Yummi Music 
 ![Yummi Music](https://graph.org/file/886336f416640a0e9294e.jpg)
 
-  #                     Yummi Music 
+  #                       Yummi Music 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+YUMMI+REPO)
 
