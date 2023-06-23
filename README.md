@@ -36,7 +36,7 @@
 
                curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 
-               git clone https://github.com/irtkaal/YummiMusic && cd YummiMusic
+               git clone https://github.com/Yummiraj/YummiMusicBot && cd YummiMusicBot
 
                pip3 install -U -r requirements.txt
 
